@@ -1,25 +1,21 @@
 
-
-
-
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ TREX-+MD-★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+BRUCE+BERA;RELEASED+DATE+22%2F6%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ BERA+TECH★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+BRUCE+BERA;RELEASED+DATE+22%2F6%2F2024." alt="Typing SVG" /></a>
  </p>
 <p align="center">
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a> <a>
 <p align="center">  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝗧𝗥𝗘𝗫-𝗠𝗗" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=BERA-TECH" alt="Typing SVG"/></a>
 
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q">
-    <img alt="wasi" height="400" src="https://telegra.ph/file/b8b94202ee501c05bfef2.jpg">
+    <img alt="bera" height="400" src="https://i.ibb.co/4jBhn13/Socialthumb.jpg">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-   <h1 align="center">TREX-MD</h1>
+   <h1 align="center">BERA-TECH</h1>
   </a>
     <div align="center">
   <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"  />
@@ -32,9 +28,9 @@
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <a href="https://github.com/berabotsmd?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/berabotsmd?label=Followers&style=social"></a>
-<a href="https://github.com/berabotsmd/TREX-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/berabotsmd/TREX-MD?&style=social"></a>
-<a href="https://github.com/berabotsmd/TREX-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/berabotsmd/TREX-MD?style=social"></a>
-<a href="https://github.com/berabotsmd/TREX-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/berabotsmd/TREX-MD?label=Watching&style=social"></a>
+<a href="https://github.com/berabotsmd/BERA-TECH/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/berabotsmd/BERA-TECH?&style=social"></a>
+<a href="https://github.com/berabotsmd/BERA-TECH/network/members"><img title="Fork" src="https://img.shields.io/github/forks/berabotsmd/BERA-TECH?style=social"></a>
+<a href="https://github.com/berabotsmd/BERA-TECH/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/berabotsmd/BERA-TECH?label=Watching&style=social"></a>
 </p>></a>                     
 
    <h1 align="center"                  
@@ -55,7 +51,7 @@
 
 </p>
 
-- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/berabotsmd/TREX-MD &template=https://github.com/berabotsmd/TREX-MD"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=Tesla" width="220" height="38.45"/></a></p>
+- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/berabotsmd/BERA-TECH &template=https://github.com/berabotsmd/BERA-TECH"><img title="Deploy On HEROKU" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=Tesla" width="220" height="38.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -86,7 +82,7 @@ HOW TO REACH THE OWNER?
 ## STEPS TO DEPLOY YOUR BOT
 
 
-1, Star the repo up there then click Here To  [`FORK`](https://github.com/berabotsmd/TREX-MD/fork)
+1, Star the repo up there then click Here To  [`FORK`](https://github.com/berabotsmd/BERA-TECH/fork)
 
 2, TAP ON GET SESSIONS
 
@@ -119,7 +115,7 @@ HOW TO REACH THE OWNER?
 ## Contributions
 
 
-Contributions to 🅃🅁🄴🅇-🄼🄳 are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to BETA-TECH BOT are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 ## THANKS TO [GOD]
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## License
