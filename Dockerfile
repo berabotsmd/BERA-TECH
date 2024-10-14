@@ -9,8 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/berabotsmd/BERA-TECH /root/ToshTech
-WORKDIR /root/toshtech/
+RUN git clone https://github.com/berabotsmd/TREX-MD /root/beratech
+WORKDIR /root/bera/
 
 
 COPY package.json .
