@@ -120,9 +120,9 @@ Contributions to BETA-TECH BOT are welcome! If you have ideas for new features, 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## License
 
-The 🅃🅁🄴🅇-🄼🄳 is released under the [MIT License](https://opensource.org/licenses/MIT).
+The BERA TECH is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the *🅃🅁🄴🅇-🄼🄳*  to enhance your Whatsapp more enjoyable
+Enjoy the diverse features of the *BERA TECH*  to enhance your Whatsapp more enjoyable
 ☣𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 🅃🅁🄴🅇-🄼🄳
 .
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
