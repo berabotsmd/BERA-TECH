@@ -37,14 +37,14 @@ const date = moment().format('DD/MM/YYYY');
       *BERA TECH INFORMATION* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/berabotsmd/BERA-TECH
+> https://github.com/berabotsmd/TREX-MD 
 
 *WHATSAPP GROUP*
 > https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q
 ⁠
 ╭───────────────────❒
 │💎⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❤️⁠⁠⁠⁠ *DEV* : *ENZO*
+│❤️⁠⁠⁠⁠ *DEV* : *BRUCE BERA*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
