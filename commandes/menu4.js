@@ -387,110 +387,166 @@
 
 //const _0xf790dc=_0xa0f6;function _0xdc5d(){const _0x3ec291=['10536lZgPBM','&apikey=','Searching...//,'177922TYxzCT','Please\x20insert\x20a\x20song\x20name.','*Downloded\x20Successfully\x20*','660213IYzdHm','length','Search','224QVVBmG','thumbnail','result','Failed\x20to\x20download\x20audio.\x20Please\x20try\x20again\x20later.','https://api.ibrahimadams.us.kg/api/download/ytmp4?url=','1089200HhWdGA','abrahtech','Please\x20insert\x20a\x20song/video\x20name.','No\x20audio\x20found.','Download','url','json','630025ROnVOL','https://api.ibrahimadams.us.kg/api/download/ytmp3?url=','An\x20error\x20occurred\x20while\x20searching\x20or\x20downloading\x20the\x20audio.','status','Downloded\x20Successfully\x20🤝','audio/mp4','45624IQPKFY','╭─────═━┈┈━═──━┈⊷\x0a┇\x20☢\x20*BERA\x20TECH\x20PLAYER*\x20☢\x20\x0a┇\x20*Bot\x20name\x20:BERA\x20TECH*\x20\x0a┇\x20*Owner:\x20BRUCE\x20BERA*\x20\x0a╰─────═━┈┈━═──━┈⊷','Error\x20from\x20API:','error','join','110016zZgPFw','song','success','57zwpYHG','videos','video/mp4','╭─────═━┈┈━═──━┈⊷\x0a┇\x20☢\x20*BERA\x20TECH\x20PLAYER*\x20☢\x20\x0a┇\x20*Bot\x20name\x20:BERA\x20TECH\x20*\x20\x0a┇\x20*Owner:\x20BRUCE\x20BERA*\x20\x0a╰─────═━┈┈━═──━┈⊷','sendMessage','download_url','play'];_0xdc5d=function(){return _0x3ec291;};return _0xdc5d();}function _0xa0f6(_0x479b73,_0x47b470){const _0xdc5dd=_0xdc5d();return _0xa0f6=function(_0xa0f684,_0x933a18){_0xa0f684=_0xa0f684-0x76;let _0xc5a425=_0xdc5dd[_0xa0f684];return _0xc5a425;},_0xa0f6(_0x479b73,_0x47b470);}(function(_0x5d49ee,_0x1eb3ca){const _0x4de617=_0xa0f6,_0x3b4eb3=_0x5d49ee();while(!![]){try{const _0x25c495=-parseInt(_0x4de617(0x97))/0x1+parseInt(_0x4de617(0x8a))/0x2+-parseInt(_0x4de617(0x8d))/0x3*(-parseInt(_0x4de617(0x85))/0x4)+-parseInt(_0x4de617(0x7f))/0x5+-parseInt(_0x4de617(0x94))/0x6*(parseInt(_0x4de617(0x9d))/0x7)+parseInt(_0x4de617(0x78))/0x8+parseInt(_0x4de617(0x9a))/0x9;if(_0x25c495===_0x1eb3ca)break;else _0x3b4eb3['push'](_0x3b4eb3['shift']());}catch(_0x6f717a){_0x3b4eb3['push'](_0x3b4eb3['shift']());}}}(_0xdc5d,0x1d916));const {zokou}=require('../framework/zokou'),yts=require('yt-search');zokou({'nomCom':'video','categorie':_0xf790dc(0x9c),'reaction':'🎥'},async(_0x367f9e,_0x42ec39,_0x59e7a7)=>{const _0x25f165=_0xf790dc,{ms:_0x268e3c,repondre:_0x2a5717,arg:_0x48c0c0}=_0x59e7a7;if(!_0x48c0c0[0x0]){_0x2a5717(_0x25f165(0x7a));return;}try{let _0x275603=_0x48c0c0[_0x25f165(0x89)]('\x20'),_0x696e97=[];const _0x13debb=await yts(_0x275603);_0x696e97=_0x13debb['videos'];if(_0x696e97&&_0x696e97[_0x25f165(0x9b)]>0x0){const _0x495a2c=_0x696e97[0x0][_0x25f165(0x7d)],_0x228854=await fetch(_0x25f165(0x77)+encodeURIComponent(_0x495a2c)+_0x25f165(0x95)+_0x25f165(0x79)),_0x5809a9=await _0x228854[_0x25f165(0x7e)]();if(_0x5809a9[_0x25f165(0x82)]===0xc8&&_0x5809a9[_0x25f165(0x8c)]){const _0x345625=_0x5809a9[_0x25f165(0x9f)][_0x25f165(0x92)],_0x463df0={'image':{'url':_0x696e97[0x0][_0x25f165(0x9e)]},'caption':_0x25f165(0x86)};await _0x42ec39[_0x25f165(0x91)](_0x367f9e,_0x463df0,{'quoted':_0x268e3c}),await _0x42ec39[_0x25f165(0x91)](_0x367f9e,{'video':{'url':_0x345625},'mimetype':_0x25f165(0x8f)},{'quoted':_0x268e3c}),_0x2a5717(_0x25f165(0x83));}else _0x2a5717(_0x25f165(0x96));}else _0x2a5717('No\x20videos\x20found.');}catch(_0x7babc9){console[_0x25f165(0x88)]('Error\x20from\x20API:',_0x7babc9),_0x2a5717(_0x25f165(0x96));}}),zokou({'nomCom':_0xf790dc(0x93),'categorie':_0xf790dc(0x7c),'reaction':'🎶'},async(_0x24c22a,_0xcf4865,_0x3e50a4)=>{const _0x2de22d=_0xf790dc,{ms:_0x757ec1,repondre:_0x467b86,arg:_0x51e447}=_0x3e50a4;if(!_0x51e447[0x0]){_0x467b86(_0x2de22d(0x98));return;}try{let _0x579b1d=_0x51e447[_0x2de22d(0x89)]('\x20'),_0x220a25=[];const _0x4e8387=await yts(_0x579b1d);_0x220a25=_0x4e8387[_0x2de22d(0x8e)];if(_0x220a25&&_0x220a25[_0x2de22d(0x9b)]>0x0){const _0x22e665=_0x220a25[0x0][_0x2de22d(0x7d)],_0x767774=await fetch(_0x2de22d(0x80)+encodeURIComponent(_0x22e665)+_0x2de22d(0x95)+_0x2de22d(0x79)),_0x594445=await _0x767774[_0x2de22d(0x7e)]();if(_0x594445[_0x2de22d(0x82)]===0xc8&&_0x594445[_0x2de22d(0x8c)]){const _0x4e133b=_0x594445[_0x2de22d(0x9f)]['download_url'],_0x1a064d={'image':{'url':_0x220a25[0x0][_0x2de22d(0x9e)]},'caption':'╭─────═━┈┈━═──━┈⊷\x0a┇\x20☢\x20*BERA\x20TECH\x20PLAYER*\x20☢\x20\x0a┇\x20*BOT\x20NAME\x20:BERA\x20TECH\x20BOT*\x20\x0a┇\x20*Owner:\x20BRUCE\x20BERA*\x20\x0a╰─────═━┈┈━═──━┈⊷\x0a\x20'};await _0xcf4865[_0x2de22d(0x91)](_0x24c22a,_0x1a064d,{'quoted':_0x757ec1}),await _0xcf4865['sendMessage'](_0x24c22a,{'audio':{'url':_0x4e133b},'mimetype':_0x2de22d(0x84)},{'quoted':_0x757ec1}),_0x467b86(_0x2de22d(0x99));}else _0x467b86(_0x2de22d(0x76));}else _0x467b86(_0x2de22d(0x7b));}catch(_0x53c643){console['error'](_0x2de22d(0x87),_0x53c643),_0x467b86(_0x2de22d(0x81));}}),zokou({'nomCom':_0xf790dc(0x8b),'categorie':_0xf790dc(0x7c),'reaction':'🎶'},async(_0x3036cf,_0x4d6b2e,_0x36cac0)=>{const _0x191d63=_0xf790dc,{ms:_0x52b671,repondre:_0x2c214d,arg:_0x838843}=_0x36cac0;if(!_0x838843[0x0]){_0x2c214d(_0x191d63(0x98));return;}try{let _0x57e0d5=_0x838843[_0x191d63(0x89)]('\x20'),_0xbc816d=[];const _0x19328b=await yts(_0x57e0d5);_0xbc816d=_0x19328b['videos'];if(_0xbc816d&&_0xbc816d['length']>0x0){const _0x107a98=_0xbc816d[0x0]['url'],_0x5267d2=await fetch(_0x191d63(0x80)+encodeURIComponent(_0x107a98)+_0x191d63(0x95)+_0x191d63(0x79)),_0x19bc83=await _0x5267d2[_0x191d63(0x7e)]();if(_0x19bc83['status']===0xc8&&_0x19bc83[_0x191d63(0x8c)]){const _0xfc6918=_0x19bc83['result'][_0x191d63(0x92)],_0x396019={'image':{'url':_0xbc816d[0x0][_0x191d63(0x9e)]},'caption':_0x191d63(0x90)};await _0x4d6b2e[_0x191d63(0x91)](_0x3036cf,_0x396019,{'quoted':_0x52b671}),await _0x4d6b2e[_0x191d63(0x91)](_0x3036cf,{'audio':{'url':_0xfc6918},'mimetype':_0x191d63(0x84)},{'quoted':_0x52b671}),_0x2c214d(_0x191d63(0x99));}else _0x2c214d(_0x191d63(0x76));}else _0x2c214d(_0x191d63(0x7b));}catch(_0x358185){console['error']('Error\x20from\x20API:',_0x358185),_0x2c214d(_0x191d63(0x81));}});
 
-const { zokou } = require("../framework/zokou");
+const {
+  zokou
+} = require("../framework/zokou");
 const yts = require("yt-search");
-const axios = require("axios");
-
 zokou({
-  nomCom: "film",
-  categorie: "Search",
-  reaction: "💿"
-}, async (origineMessage, zk, commandeOptions) => {
-  const { arg, repondre } = commandeOptions;
-
-  if (!arg[0]) {
-    repondre("Which song do you want?");
+  'nomCom': "video",
+  'categorie': "Search",
+  'reaction': '🎥'
+}, async (_0x3643ec, _0x1895de, _0x4b749f) => {
+  const {
+    ms: _0x34f844,
+    repondre: _0x12e5f8,
+    arg: _0x151977
+  } = _0x4b749f;
+  if (!_0x151977[0]) {
+    _0x12e5f8("Please insert a song/video name.");
     return;
   }
-
   try {
-    const searchQuery = arg.join(" ");
-    const results = await yts(searchQuery);
-    const video = results.videos[0]; // Get the first video from the results
-
-    if (video && video.url) {
-      const songDetails = {
-        image: { url: video.thumbnail },
-        caption: `*BERA TECH VIDEO PLAYER*\n\nJoin for more tracks of the song:\nhttps://t.me/Alphatrex\n╭───────────────◆\n│ *Title:* ${video.title}\n│ *Duration:* ${video.timestamp}\n│ *Yt link:* ${video.url}\n╰────────────────◆`
-      };
-
-      await zk.sendMessage(origineMessage, songDetails, { quoted: commandeOptions.ms });
-
-      const response = await axios.get(`https://widipe.com/download/ytdl?url=${video.url}`);
-      const data = response.data;
-
-      if (data && data.result && data.result.mp4 && data.result.title) {
-        const fileName = `${data.result.title}.mp4`;
-
-        // Send as document
-        await zk.sendMessage(origineMessage, {
-          document: { url: data.result.mp4 },
-          mimetype: "video/mp4",
-          fileName: fileName
-        }, { quoted: commandeOptions.ms });
-
-        // Send as video
-        await zk.sendMessage(origineMessage, {
-          video: { url: data.result.mp4 },
-          mimetype: "video/mp4",
-          fileName: fileName
-        }, { quoted: commandeOptions.ms });
+    let _0x3e8be9 = _0x151977.join(" ");
+    let _0x52a93a = [];
+    const _0xc3a63f = await yts(_0x3e8be9);
+    _0x52a93a = _0xc3a63f.videos;
+    if (_0x52a93a && _0x52a93a.length > 0) {
+      const _0x3a755b = await _0x2bc96f.json();
+      if (_0x3a755b.status === 200 && _0x3a755b.success) {
+        const _0x49df33 = _0x3a755b.result.download_url;
+        const _0x53fc88 = {
+          'image': {
+            'url': _0x52a93a[0].thumbnail
+          },
+          'caption': "YOUTUBE SEARCH\n\n ©BRUCE BERA"
+        };
+        await _0x1895de.sendMessage(_0x3643ec, _0x53fc88, {
+          'quoted': _0x34f844
+        });
+        await _0x1895de.sendMessage(_0x3643ec, {
+          'video': {
+            'url': _0x49df33
+          },
+          'mimetype': "video/mp4"
+        }, {
+          'quoted': _0x34f844
+        });
+        _0x12e5f8("Here's your download");
       } else {
-        repondre("Download failed: No valid data found.");
+        _0x12e5f8("Searching...⏳");
       }
     } else {
-      repondre("No video found.");
+      _0x12e5f8("No videos found.");
     }
-  } catch (error) {
-    console.error("Error during search or download:", error);
-    repondre("Download failed due to an error.");
+  } catch (_0x314c47) {
+    console.error("Error from API:", _0x314c47);
+    _0x12e5f8("Searching...⏳");
   }
 });
-
 zokou({
-  nomCom: "song",
-  categorie: "Search",
-  reaction: "💿"
-}, async (origineMessage, zk, commandeOptions) => {
-  const { arg, repondre } = commandeOptions;
-
-  if (!arg[0]) {
-    repondre("Which song do you want?");
+  'nomCom': "song",
+  'categorie': "Download",
+  'reaction': '🎸'
+}, async (_0x271a33, _0x6707e5, _0x520fff) => {
+  const {
+    ms: _0x1e2f77,
+    repondre: _0x300732,
+    arg: _0x53d21a
+  } = _0x520fff;
+  if (!_0x53d21a[0]) {
+    _0x300732("Please insert a song name.");
     return;
   }
-
   try {
-    const searchQuery = arg.join(" ");
-    const results = await yts(searchQuery);
-    const video = results.videos[0]; // Get the first video from the results
-
-    if (video) {
-      const songDetails = {
-        image: { url: video.thumbnail },
-        caption: `*BERA TECH SONG PLAYER*\nJoin for more tracks: https://t.me/Alphatrex\n╭───────────────◆\n│ *Title:* ${video.title}\n│ *Duration:* ${video.timestamp}\n│ *Yt link:* ${video.url}\n╰────────────────◆`
-      };
-
-      await zk.sendMessage(origineMessage, songDetails, { quoted: commandeOptions.ms });
-
-      const response = await axios.get(`https://widipe.com/download/ytdl?url=${video.url}`);
-      const data = response.data;
-
-      if (data && data.result && data.result.mp3) {
-        await zk.sendMessage(origineMessage, {
-          document: { url: data.result.mp3 },
-          mimetype: "audio/mp3",
-          fileName: `${data.result.title}.mp3`
-        }, { quoted: commandeOptions.ms });
+    let _0x226ad0 = _0x53d21a.join(" ");
+    let _0x994c29 = [];
+    const _0x9d0929 = await yts(_0x226ad0);
+    _0x994c29 = _0x9d0929.videos;
+    if (_0x994c29 && _0x994c29.length > 0) {
+      const _0x20c972 = await _0x4983e8.json();
+      if (_0x20c972.status === 200 && _0x20c972.success) {
+        const _0x30773c = _0x20c972.result.download_url;
+        const _0x139808 = {
+          'image': {
+            'url': _0x994c29[0].thumbnail
+          },
+          'caption': "YOUTUBE SEARCH\n\n ©BRUCE BERA"
+        };
+        await _0x6707e5.sendMessage(_0x271a33, _0x139808, {
+          'quoted': _0x1e2f77
+        });
+        await _0x6707e5.sendMessage(_0x271a33, {
+          'audio': {
+            'url': _0x30773c
+          },
+          'mimetype': "audio/mp4"
+        }, {
+          'quoted': _0x1e2f77
+        });
+        _0x300732("*Here's your download*");
       } else {
-        repondre("Download failed: No valid data found.");
+        _0x300732("Failed to download audio. Please try again later.");
       }
     } else {
-      repondre("No video found.");
+      _0x300732("No audio found.");
     }
-  } catch (error) {
-    console.error("Error during search or download:", error);
-    repondre("Download failed: " + error.message);
+  } catch (_0x2144bd) {
+    console.error("Error from API:", _0x2144bd);
+    _0x300732("An error occurred while searching or downloading the audio.");
   }
 });
-
-
+zokou({
+  'nomCom': "play",
+  'categorie': "Download",
+  'reaction': '🎸'
+}, async (_0x80c678, _0x1dc8a0, _0x27d06f) => {
+  const {
+    ms: _0xfb7714,
+    repondre: _0x19492f,
+    arg: _0x50635c
+  } = _0x27d06f;
+  if (!_0x50635c[0]) {
+    _0x19492f("Please insert a song name.");
+    return;
+  }
+  try {
+    let _0x3e9ef3 = _0x50635c.join(" ");
+    let _0x43a4ee = [];
+    const _0x4a30bb = await yts(_0x3e9ef3);
+    _0x43a4ee = _0x4a30bb.videos;
+    if (_0x43a4ee && _0x43a4ee.length > 0) {
+      const _0x4b00b3 = _0x43a4ee[0].url;
+      const _0x2a1daf = await fetch("https://apis.ibrahimadams.us.kg/api/download/ytmp3?url=" + encodeURIComponent(_0x4b00b3) + "&apikey=" + "cracker");
+      const _0x475016 = await _0x2a1daf.json();
+      if (_0x475016.status === 200 && _0x475016.success) {
+        const _0x26f57c = _0x475016.result.download_url;
+        const _0x232b70 = {
+          'image': {
+            'url': _0x43a4ee[0].thumbnail
+          },
+          'caption': "Song downloded by Bera tech\n\n ©baraka-bega"
+        };
+        await _0x1dc8a0.sendMessage(_0x80c678, _0x232b70, {
+          'quoted': _0xfb7714
+        });
+        await _0x1dc8a0.sendMessage(_0x80c678, {
+          'audio': {
+            'url': _0x26f57c
+          },
+          'mimetype': "audio/mp4"
+        }, {
+          'quoted': _0xfb7714
+        });
+        _0x19492f("*here's your download *");
+      } else {
+        _0x19492f("Failed to download audio. Please try again later.");
+      }
+    } else {
+      _0x19492f("No audio found.");
+    }
+  } catch (_0x45d554) {
+    console.error("Error from API:", _0x45d554);
+    _0x19492f("An error occurred while searching or downloading the audio.");
+  }
+});
+    
