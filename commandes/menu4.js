@@ -431,7 +431,7 @@ zokou({
         }, {
           'quoted': _0x34f844
         });
-        _0x12e5f8("Here's your download");
+        _0x12e5f8("Here's your download pal🤝");
       } else {
         _0x12e5f8("Searching...⏳");
       }
@@ -483,7 +483,7 @@ zokou({
         }, {
           'quoted': _0x1e2f77
         });
-        _0x300732("*Here's your download*");
+        _0x300732("Here's your download pal🤝");
       } else {
         _0x300732("Failed to download audio. Please try again later.");
       }
@@ -498,7 +498,7 @@ zokou({
 zokou({
   'nomCom': "play",
   'categorie': "Download",
-  'reaction': '🎸'
+  'reaction': '🎶'
 }, async (_0x80c678, _0x1dc8a0, _0x27d06f) => {
   const {
     ms: _0xfb7714,
@@ -524,7 +524,7 @@ zokou({
           'image': {
             'url': _0x43a4ee[0].thumbnail
           },
-          'caption': "Song downloded by Bera tech\n\n ©baraka-bega"
+          'caption': "Song downloded by Bera tech\n\n ©BRUCE BERA"
         };
         await _0x1dc8a0.sendMessage(_0x80c678, _0x232b70, {
           'quoted': _0xfb7714
@@ -537,7 +537,7 @@ zokou({
         }, {
           'quoted': _0xfb7714
         });
-        _0x19492f("*here's your download *");
+        _0x19492f("here's your download Pal🤝");
       } else {
         _0x19492f("Failed to download audio. Please try again later.");
       }
