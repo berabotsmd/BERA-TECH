@@ -1,0 +1,4 @@
+
+// FUCK YOU BITCH 🖕//
+//I BET YOU GOT WHAT YOU DESERVE//
+//NOW FUCK OFF//😂//
