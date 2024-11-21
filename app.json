@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BERA TECH",
+      "value":"BERA TECH BOT",
       "required":false
 
     } ,
